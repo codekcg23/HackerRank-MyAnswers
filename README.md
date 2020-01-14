@@ -1,2 +1,2 @@
 # HackerRank-MyAnswers
-Answers of solved quetions in HackerRank
+Answers of solved questions in HackerRank
